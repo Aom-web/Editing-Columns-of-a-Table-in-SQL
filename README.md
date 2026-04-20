@@ -44,7 +44,7 @@ ADD COLUMN Gender;
 
 ### 4. To fill the NULL gender column above
 
-### Feamle 
+### Female
 
 ```SQL
 UPDATE Sales
